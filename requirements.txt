@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+warnings
+seaborn
+datasets
+wordcloud
+nltk
+xgboost
+glove==1.0.0
+gensim
